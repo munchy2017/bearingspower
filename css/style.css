@@ -160,8 +160,8 @@ a:active {
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-style: italic;
-  background: -webkit-gradient(linear, left top, right top, from(#f80503), to(#ff7d09));
-  background: linear-gradient(to right, #f80503 0%, #ff7d09 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#95960F), to(#95960F));
+  background: linear-gradient(to right, #95960F 0%, #95960F 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -190,7 +190,7 @@ a:active {
   width: 50px;
   height: 50px;
   text-align: center;
-  background: rgba(254, 90, 14, 0.75);
+  background: #95960F;
   color: #262626;
   font-size: 17px;
   line-height: 50px;
@@ -203,7 +203,7 @@ a:active {
   transition: all .4s ease;
 }
 .scroll-to-top:hover {
-  background: #fe5a0e;
+  background: #95960F;
   color: #fff;
 }
 
@@ -319,7 +319,7 @@ body.active-preloader-ovh {
 .header-navigation .container .right-side-box a.rqa-btn {
   display: inline-block;
   vertical-align: middle;
-  background: #fe5a0e;
+  background: #95960F;
   color: #ffffff;
   font-size: 16px;
   font-family: 'Poppins';
@@ -771,7 +771,7 @@ body.active-preloader-ovh {
 }
 .header.header-home-three .header-navigation .container .right-side-box a.rqa-btn {
   padding: 18px 69px;
-  border-bottom: 3px solid#95960F;
+  border-bottom: 3px solid#fff;
 }
 .header.header-home-three .header-navigation .container .right-side-box a.rqa-btn:after {
   display: none;
@@ -3341,7 +3341,7 @@ footer.site-footer .bottom-footer p {
 
 .contact-info-style-one {
   background: #262626;
-  border-bottom: 3px solid #FE5A0E;
+  border-bottom: 3px solid #95960F;
   padding: 50px 0;
 }
 .contact-info-style-one .title h3, .contact-info-style-one .title p {
@@ -3358,8 +3358,8 @@ footer.site-footer .bottom-footer p {
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-style: italic;
-  background: -webkit-gradient(linear, left top, right top, from(#f80503), to(#ff7d09));
-  background: linear-gradient(to right, #f80503 0%, #ff7d09 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#95960F), to(#95960F));
+  background: linear-gradient(to right, #95960F 0%, #95960F 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3410,7 +3410,7 @@ footer.site-footer .bottom-footer p {
 .contact-info-style-one .contact-infos .single-contact-infos .text-box h3 {
   font-size: 28px;
   font-family: 'Poppins';
-  color: #FE5A0E;
+  color: #95960F;
   font-weight: 600;
 }
 .contact-info-style-one .contact-infos .single-contact-infos .text-box p {
@@ -3620,13 +3620,13 @@ footer.site-footer .bottom-footer p {
   vertical-align: middle;
 }
 .inner-banner ul.breadcumb a, .inner-banner ul.breadcumb span {
-  color: #FE5A0E;
+  color: #95960F;
   font-size: 18px;
 }
 .inner-banner ul.breadcumb span.sep {
   margin-left: 10px;
   margin-right: 10px;
-  color: #FE5A0E;
+  color: #95960F;
 }
 .inner-banner ul.breadcumb span {
   color: #fff;
@@ -4477,7 +4477,7 @@ footer.site-footer .bottom-footer p {
   color: #B1EA04;
 }
 .service-style-four.about-page {
-  padding: 120px 0;
+  padding: 0px 0;
 }
 .service-style-four.about-page .sec-title {
   margin-bottom: 55px;
@@ -4531,7 +4531,7 @@ footer.site-footer .bottom-footer p {
 .single-service-style-four .img-box .box .content a.more {
   width: 121px;
   height: 38px;
-  background: #FE5A0E;
+  background: #95960F;
   color: #fff;
   font-size: 16px;
   font-family: 'Poppins';
@@ -4544,19 +4544,19 @@ footer.site-footer .bottom-footer p {
   margin-top: 15px;
 }
 .single-service-style-four .img-box .box .content a.more:before {
-  background: #252525;
+  background: #95960F;
 }
 
 .gas.single-service-style-four .img-box .box .content h3 span {
-  color: #FE5A0E;
+  color: #95960F;
 }
 
 .chemical.single-service-style-four .img-box .box .content h3 span {
-  color: #31DAF9;
+  color: #95960F;
 }
 
 .eco.single-service-style-four .img-box .box .content h3 span {
-  color: #B1EA04;
+  color: #95960F;
 }
 
 .mechanical.single-service-style-four .img-box .box .content h3 span {
@@ -4564,11 +4564,11 @@ footer.site-footer .bottom-footer p {
 }
 
 .petrol.single-service-style-four .img-box .box .content h3 span {
-  color: #FDFD1E;
+  color: #95960F;
 }
 
 .power.single-service-style-four .img-box .box .content h3 span {
-  color: #54C4FD;
+  color: #95960F;
 }
 
 .service-style-four-carousel.owl-theme .owl-dots {
@@ -4957,7 +4957,7 @@ footer.site-footer .bottom-footer p {
 }
 
 .about-style-three {
-  padding: 120px 0;
+  padding: 70px 0;
 }
 .about-style-three .about-img-box {
   position: relative;
@@ -4966,7 +4966,7 @@ footer.site-footer .bottom-footer p {
   position: absolute;
   top: 20px;
   left: 0;
-  background: #FD5912;
+  background: #95960F;
   width: 100%;
   max-width: 263px;
   min-height: 245px;
