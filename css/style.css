@@ -71,6 +71,13 @@ a:active {
   outline: none !important;
 }
 
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
 .container {
   -webkit-transition: none;
   transition: none;
