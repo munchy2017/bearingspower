@@ -327,7 +327,7 @@ body.active-preloader-ovh {
   display: inline-block;
   vertical-align: middle;
   background: #95960F;
-  color: #ffffff;
+  color: #000;
   font-size: 16px;
   font-family: 'Poppins';
   font-weight: 600;
@@ -3619,7 +3619,7 @@ footer.site-footer .bottom-footer p {
   font-size: 36px;
   font-family: 'Poppins';
   font-weight: 600;
-  color: #FFFFFF;
+  color: #000;
   margin-bottom: 5px;
 }
 .inner-banner ul.breadcumb li {
@@ -4667,8 +4667,8 @@ footer.site-footer .bottom-footer p {
 }
 
 .service-page {
-  padding-top: 125px;
-  padding-bottom: 95px;
+      padding-top: 15px;
+    padding-bottom: 0px;
 }
 .service-page .single-service-style-four {
   margin-bottom: 30px;
@@ -5646,7 +5646,7 @@ footer.site-footer .bottom-footer p {
 }
 .sidebar .single-sidebar.service-sidebar ul.service-list li a {
   display: block;
-  color: #252525;
+  color: #95960F;
   font-weight: 500;
   font-size: 16px;
   background: #F5F5F5;
@@ -5660,7 +5660,7 @@ footer.site-footer .bottom-footer p {
   content: '';
   width: 6px;
   height: 0;
-  background: #FD5912;
+  background: #000;
   position: absolute;
   top: 0;
   left: 0;
@@ -5668,8 +5668,8 @@ footer.site-footer .bottom-footer p {
   transition: all .4s ease;
 }
 .sidebar .single-sidebar.service-sidebar ul.service-list li:hover a, .sidebar .single-sidebar.service-sidebar ul.service-list li.active a {
-  background: #252525;
-  color: #fff;
+  background: #95960F;
+  color: #000;
 }
 .sidebar .single-sidebar.service-sidebar ul.service-list li:hover a:before, .sidebar .single-sidebar.service-sidebar ul.service-list li.active a:before {
   height: 100%;
@@ -5691,13 +5691,13 @@ footer.site-footer .bottom-footer p {
 }
 .sidebar .single-sidebar.broucher-sidebar a.broucher-btn {
   display: block;
-  background: #F5F5F5;
+  background: #95960F;
   font-family: 'Poppins';
   font-weight: 600;
   font-size: 16px;
   line-height: 45px;
   padding-left: 75px;
-  color: #252525;
+  color: #000;
   position: relative;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -5716,11 +5716,11 @@ footer.site-footer .bottom-footer p {
   margin-top: 15px;
 }
 .sidebar .single-sidebar.broucher-sidebar a.broucher-btn:hover {
-  background: #252525;
-  color: #FFFFFF;
+  background:  #95960F;
+  color: #000;
 }
 .sidebar .single-sidebar.broucher-sidebar a.broucher-btn:hover i {
-  color: #FD5912;
+  color:  #000;
 }
 
 /*# sourceMappingURL=style.css.map */
